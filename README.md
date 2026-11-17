@@ -59,3 +59,6 @@ Questo crea una **prova temporale esterna** (timestamp di Google) che certifica 
 Il codice sorgente di questo progetto è **privato** e non può essere copiato, modificato o distribuito senza esplicito consenso scritto da parte dell'autore.
 
 Le demo video sono fornite a solo scopo dimostrativo del portfolio.
+
+
+> Developed with AI-assisted coding tools (Claude/Anthropic)
